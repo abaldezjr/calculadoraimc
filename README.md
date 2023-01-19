@@ -1,0 +1,2 @@
+# calculadoraimc
+React Native
